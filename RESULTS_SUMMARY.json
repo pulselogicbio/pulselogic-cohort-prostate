@@ -1,0 +1,19 @@
+﻿{
+    "ci":  [
+               0.959,
+               0.999
+           ],
+    "disease":  "Prostate Cancer",
+    "patent":  "US 63/942,422",
+    "tier":  "GOLD",
+    "sensitivity":  0.9,
+    "pipeline":  "BPF v1.0.0",
+    "patients":  554,
+    "event_rate":  0.02,
+    "cohort":  "TCGA Prostate Cancer (PRAD)",
+    "phase":  "Phase 1",
+    "events":  10,
+    "specificity":  0.99,
+    "seed":  42,
+    "auc":  0.9825
+}
